@@ -45,3 +45,11 @@ a:active {
 hr{
     border:solid  #7d97ad 2px;
 }
+
+@media screen and (max-width: 1024px){
+
+	.center_img{
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
